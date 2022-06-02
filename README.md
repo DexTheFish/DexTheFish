@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DexTheFish
 - 👀 I’m interested in Web Development, Origami, and Music.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently practicing JavaScript, HTML, and CSS.
 - 💞️ I’m looking to collaborate on any kind of project!
 - 📫 You can reach me via dexthefish at gmail dot com
 
