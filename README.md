@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DexTheFish
-- 👀 I’m interested in Math, Origami, and Music.
+- 👀 I’m interested in Math, Music, and Origami.
 - 🌱 I’m currently practicing JavaScript, HTML, and CSS.
 - 💞️ I’m looking to collaborate on any kind of project!
 - 📫 You can reach me via dexthefish at gmail dot com
