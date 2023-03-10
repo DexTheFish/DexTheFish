@@ -12,8 +12,8 @@
 ### About Me :
 
 - 👀 Interested in Math, Music, and Origami.
-- 🌱 Currently practicing React and Ruby on Rails.
-- 💞️ Seeking employment as a Junior Developer.
+- 🌱 Currently practicing R and TypeScript.
+<!-- - 💞️ Seeking employment as a Junior Developer. -->
 - 🌱 Check out my website at [dexthefish.com](https://www.dexthefish.com).
 - 📫 You can reach me via dexthefish@gmail.com.
 
